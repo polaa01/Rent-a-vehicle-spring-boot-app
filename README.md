@@ -16,7 +16,7 @@ CARS
     - Vehicle image
 
 ELECTIC BIKES
-For electric bikes, the following data is stored:
+ - For electric bikes, the following data is stored:
     - Unique identifier (ID – string)
     - Manufacturer
     - Model
@@ -25,7 +25,7 @@ For electric bikes, the following data is stored:
     - Vehicle image
 
 ELECTIC SCOOTERS
-For electric scooters, the following data is stored:
+ - For electric scooters, the following data is stored:
     - Unique identifier (ID – string)
     - Manufacturer
     - Model
