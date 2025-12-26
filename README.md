@@ -6,7 +6,6 @@ The backend provides core business logic, data persistence, authentication, and 
 The company manages multiple types of vehicles, each with specific attributes:
 
 CARS
-
  - For each car, the following data is stored:
     - Unique identifier (ID – string, manually defined)
     - Purchase date
@@ -17,7 +16,6 @@ CARS
     - Vehicle image
 
 ELECTIC BIKES
-
 For electric bikes, the following data is stored:
     - Unique identifier (ID – string)
     - Manufacturer
@@ -27,7 +25,6 @@ For electric bikes, the following data is stored:
     - Vehicle image
 
 ELECTIC SCOOTERS
-
 For electric scooters, the following data is stored:
     - Unique identifier (ID – string)
     - Manufacturer
@@ -35,7 +32,6 @@ For electric scooters, the following data is stored:
     - Purchase price
     - Maximum speed
     - Vehicle image
-
 String-based IDs are not the same as database primary keys, which are defined separately.
 
  Malfunctions Tracking
